@@ -10,3 +10,5 @@ admin
 http://localhost:15672/
 
 Falta colocar o shared como parent e falta ajustar as depes para ela
+
+ver exceções ocorridas em mensagens
